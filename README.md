@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Sreekar Nedunuri
+ 👋 Hi, I’m Sreekar Nedunuri
 - 👀 I’m interested in developing and operating services at massive scale and working alongside world class engineers.
-- 🌱 I’m currently a Graduate Computer Science student at UNC Charlotte.
+- 🌱 I’m currently a Graduate Computer Science student at UNC Charlotte and working as a research assistant at 
 - 📫 You can reach me at sreekarnedunuri@gmail.com
+- <a href="https://sreekarn.github.io/portfolio/" rel="nofollow noreferrer">Click here</a> to know more about me
 
 ### Languages
 
@@ -22,16 +23,16 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-### Social 
+### Social
 <p>
-  <a href="https://www.linkedin.com/in/sreekarn/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a>
-  <p>
-    <a href="https://sreekarn.github.io/portfolio/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-  </a>
-</p>
+  <a href="https://twitter.com/sreekarn"><img src="https://img.icons8.com/clouds/50/000000/twitter.png"/></a>
+  <a href="https://www.linkedin.com/in/sreekarn/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>
+ </p>
+
+<a href="https://icons8.com/icon/8vaALCJ0n6As/twitter">Icons by Icons8</a>
+
+
+
 
 
 
