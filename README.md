@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing and operating services at massive scale and working alongside world class engineers.
 - 🌱 I’m currently a Graduate Computer Science student at UNC Charlotte and working as a research assistant.
 - 📫 You can reach me at sreekarnedunuri@gmail.com
-- <a href="https://sreekarn.github.io/portfolio/" rel="nofollow noreferrer">Click here</a> to know more about me
+- [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://sreekarn.github.io/portfolio/)
 
 ### Languages
 
