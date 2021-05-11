@@ -1,6 +1,6 @@
  👋 Hi, I’m Sreekar Nedunuri
 - 👀 I’m interested in developing and operating services at massive scale and working alongside world class engineers.
-- 🌱 I’m currently a Graduate Computer Science student at UNC Charlotte and working as a research assistant at 
+- 🌱 I’m currently a Graduate Computer Science student at UNC Charlotte and working as a research assistant.
 - 📫 You can reach me at sreekarnedunuri@gmail.com
 - <a href="https://sreekarn.github.io/portfolio/" rel="nofollow noreferrer">Click here</a> to know more about me
 
@@ -8,9 +8,9 @@
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
 
 ### Technologies
 
